@@ -1,0 +1,202 @@
+[
+    {
+        "productCategory": "Science",
+        "productDescription": "Wouldn't it be great if there were a physics book that showed you how …",
+        "productImage": "https://m.media-amazon.com/images/I/51+Lu-JYOJL._SX342_SY445_.jpg",
+        "productName": "Head First Physics",
+        "productPrice": 17,
+        "productStock": 100,
+        "sellerEmail": "seller@litlounge.com",
+        "productBrand": "Head First"
+    },
+    {
+        "productCategory": "Fiction",
+        "productDescription": "A tale of two friends exploring the mysteries of life and beyond.",
+        "productImage": "https://m.media-amazon.com/images/I/71zHDXu1TaL._SL1500_.jpg",
+        "productName": "The Alchemist",
+        "productPrice": 12,
+        "productStock": 150,
+        "sellerEmail": "gias.ynu.swe@gmail.com",
+        "productBrand": "HarperOne"
+    },
+    {
+        "productCategory": "Technology",
+        "productDescription": "Learn the essentials of coding and software engineering.",
+        "productImage": "https://m.media-amazon.com/images/I/51E2055ZGUL._SL1000_.jpg",
+        "productName": "Clean Code",
+        "productPrice": 25,
+        "productStock": 80,
+        "sellerEmail": "nargis@ak.com",
+        "productBrand": "Prentice Hall"
+    },
+    {
+        "productCategory": "Business",
+        "productDescription": "Insights into leadership and building impactful companies.",
+        "productImage": "https://m.media-amazon.com/images/I/41Ag4WE7uyL.jpg",
+        "productName": "The Lean Startup",
+        "productPrice": 18,
+        "productStock": 120,
+        "sellerEmail": "seller@litlounge.com",
+        "productBrand": "Crown Business"
+    },
+    {
+        "productCategory": "Self-Help",
+        "productDescription": "A guide to mastering habits for personal growth.",
+        "productImage": "https://m.media-amazon.com/images/I/61CO5pOPtkL._SL1360_.jpg",
+        "productName": "Atomic Habits",
+        "productPrice": 16,
+        "productStock": 90,
+        "sellerEmail": "gias.ynu.swe@gmail.com",
+        "productBrand": "Penguin"
+    },
+    {
+        "productCategory": "Science",
+        "productDescription": "Explore the universe and understand its fascinating laws.",
+        "productImage": "https://m.media-amazon.com/images/I/61r26SSVNEL._SL1491_.jpg",
+        "productName": "Astrophysics for People in a Hurry",
+        "productPrice": 14,
+        "productStock": 110,
+        "sellerEmail": "nargis@ak.com",
+        "productBrand": "W.W. Norton"
+    },
+    {
+        "productCategory": "Technology",
+        "productDescription": "The definitive guide to understanding and implementing algorithms.",
+        "productImage": "https://m.media-amazon.com/images/I/61Pgdn8Ys-L._SL1500_.jpg",
+        "productName": "Introduction to Algorithms",
+        "productPrice": 35,
+        "productStock": 50,
+        "sellerEmail": "seller@litlounge.com",
+        "productBrand": "MIT Press"
+    },
+    {
+        "productCategory": "Cooking",
+        "productDescription": "Learn delicious recipes from around the world.",
+        "productImage": "https://m.media-amazon.com/images/G/01/ui/loadIndicators/loading-large_labeled._CB485921664_.gif",
+        "productName": "The Joy of Cooking",
+        "productPrice": 22,
+        "productStock": 200,
+        "sellerEmail": "gias.ynu.swe@gmail.com",
+        "productBrand": "Scribner"
+    },
+    {
+        "productCategory": "Health",
+        "productDescription": "Understand how diet impacts your overall well-being.",
+        "productImage": "https://m.media-amazon.com/images/I/81C0JBHqA2L._AC_SL1500_.jpg",
+        "productName": "The Blue Zones Solution",
+        "productPrice": 19,
+        "productStock": 70,
+        "sellerEmail": "nargis@ak.com",
+        "productBrand": "National Geographic"
+    },
+    {
+        "productCategory": "History",
+        "productDescription": "An in-depth look at pivotal moments in human history.",
+        "productImage": "https://m.media-amazon.com/images/I/710krvP7m7L._SL1500_.jpg",
+        "productName": "Sapiens: A Brief History of Humankind",
+        "productPrice": 20,
+        "productStock": 65,
+        "sellerEmail": "seller@litlounge.com",
+        "productBrand": "Harper"
+    },
+    {
+        "productCategory": "Science Fiction",
+        "productDescription": "A thrilling novel about space exploration and survival.",
+        "productImage": "https://m.media-amazon.com/images/I/81H6Z7QwcNL._SL1500_.jpg",
+        "productName": "The Martian",
+        "productPrice": 15,
+        "productStock": 95,
+        "sellerEmail": "gias.ynu.swe@gmail.com",
+        "productBrand": "Crown"
+    },
+    {
+        "productCategory": "Philosophy",
+        "productDescription": "A guide to understanding life and human existence.",
+        "productImage": "https://m.media-amazon.com/images/I/81HsJAUYeJL._SL1500_.jpg",
+        "productName": "Meditations",
+        "productPrice": 10,
+        "productStock": 130,
+        "sellerEmail": "nargis@ak.com",
+        "productBrand": "Penguin Classics"
+    },
+    {
+        "productCategory": "Travel",
+        "productDescription": "Explore destinations and travel tips from experts.",
+        "productImage": "https://m.media-amazon.com/images/I/81EBO2bcWSL._SL1500_.jpg",
+        "productName": "Lonely Planet's Ultimate Travel Guide",
+        "productPrice": 28,
+        "productStock": 45,
+        "sellerEmail": "seller@litlounge.com",
+        "productBrand": "Lonely Planet"
+    },
+    {
+        "productCategory": "Children",
+        "productDescription": "A delightful story for kids filled with life lessons.",
+        "productImage": "https://m.media-amazon.com/images/I/81ZLnIln3KL._SL1500_.jpg",
+        "productName": "The Gruffalo",
+        "productPrice": 8,
+        "productStock": 220,
+        "sellerEmail": "gias.ynu.swe@gmail.com",
+        "productBrand": "Macmillan"
+    },
+    {
+        "productCategory": "Mystery",
+        "productDescription": "Dive into a suspenseful story filled with twists.",
+        "productImage": "https://m.media-amazon.com/images/I/91WG-d6NMaL._SL1500_.jpg",
+        "productName": "Gone Girl",
+        "productPrice": 13,
+        "productStock": 100,
+        "sellerEmail": "nargis@ak.com",
+        "productBrand": "Crown Publishing"
+    },
+    {
+        "productCategory": "Art",
+        "productDescription": "Discover famous art pieces and their histories.",
+        "productImage": "https://i.ebayimg.com/images/g/CeEAAOSwYtNgo3GG/s-l500.jpg",
+        "productName": "The Story of Art",
+        "productPrice": 30,
+        "productStock": 40,
+        "sellerEmail": "seller@litlounge.com",
+        "productBrand": "Phaidon Press"
+    },
+    {
+        "productCategory": "Biography",
+        "productDescription": "The inspiring story of an extraordinary individual.",
+        "productImage": "https://m.media-amazon.com/images/I/91dEWmLyJLL._SL1500_.jpg",
+        "productName": "Becoming",
+        "productPrice": 18,
+        "productStock": 140,
+        "sellerEmail": "gias.ynu.swe@gmail.com",
+        "productBrand": "Crown"
+    },
+    {
+        "productCategory": "Education",
+        "productDescription": "Master essential vocabulary for academic success.",
+        "productImage": "https://m.media-amazon.com/images/I/614-qjCBE4L._SL1200_.jpg",
+        "productName": "Word Power Made Easy",
+        "productPrice": 10,
+        "productStock": 210,
+        "sellerEmail": "nargis@ak.com",
+        "productBrand": "Goyal Saab"
+    },
+    {
+        "productCategory": "Fitness",
+        "productDescription": "A comprehensive guide to building strength and endurance.",
+        "productImage": "https://m.media-amazon.com/images/I/91l1+K3sK1L._SL1500_.jpg",
+        "productName": "Starting Strength",
+        "productPrice": 20,
+        "productStock": 80,
+        "sellerEmail": "seller@litlounge.com",
+        "productBrand": "Aasgaard"
+    },
+    {
+        "productCategory": "Music",
+        "productDescription": "An essential guide for learning guitar from scratch.",
+        "productImage": "https://m.media-amazon.com/images/I/6186qzoh5SL._SL1391_.jpg",
+        "productName": "Guitar for Dummies",
+        "productPrice": 25,
+        "productStock": 60,
+        "sellerEmail": "gias.ynu.swe@gmail.com",
+        "productBrand": "For Dummies"
+    }
+]
