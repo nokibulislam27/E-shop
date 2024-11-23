@@ -63,7 +63,7 @@ const Overview = () => {
                 return (
                     <div className="card bg-base-100 shadow-lg p-6">
                         <h2 className="text-2xl font-bold text-primary mb-4">
-                            Welcome to LitLounge!
+                            Welcome to ShopNow!
                         </h2>
                         <p className="text-gray-600">
                             Please log in or contact support if you encounter issues.

@@ -6,7 +6,7 @@
         "productName": "Head First Physics",
         "productPrice": 17,
         "productStock": 100,
-        "sellerEmail": "seller@litlounge.com",
+        "sellerEmail": "seller@ShopNow.com",
         "productBrand": "Head First"
     },
     {
@@ -36,7 +36,7 @@
         "productName": "The Lean Startup",
         "productPrice": 18,
         "productStock": 120,
-        "sellerEmail": "seller@litlounge.com",
+        "sellerEmail": "seller@ShopNow.com",
         "productBrand": "Crown Business"
     },
     {
@@ -66,7 +66,7 @@
         "productName": "Introduction to Algorithms",
         "productPrice": 35,
         "productStock": 50,
-        "sellerEmail": "seller@litlounge.com",
+        "sellerEmail": "seller@ShopNow.com",
         "productBrand": "MIT Press"
     },
     {
@@ -96,7 +96,7 @@
         "productName": "Sapiens: A Brief History of Humankind",
         "productPrice": 20,
         "productStock": 65,
-        "sellerEmail": "seller@litlounge.com",
+        "sellerEmail": "seller@ShopNow.com",
         "productBrand": "Harper"
     },
     {
@@ -126,7 +126,7 @@
         "productName": "Lonely Planet's Ultimate Travel Guide",
         "productPrice": 28,
         "productStock": 45,
-        "sellerEmail": "seller@litlounge.com",
+        "sellerEmail": "seller@ShopNow.com",
         "productBrand": "Lonely Planet"
     },
     {
@@ -156,7 +156,7 @@
         "productName": "The Story of Art",
         "productPrice": 30,
         "productStock": 40,
-        "sellerEmail": "seller@litlounge.com",
+        "sellerEmail": "seller@ShopNow.com",
         "productBrand": "Phaidon Press"
     },
     {
@@ -186,7 +186,7 @@
         "productName": "Starting Strength",
         "productPrice": 20,
         "productStock": 80,
-        "sellerEmail": "seller@litlounge.com",
+        "sellerEmail": "seller@ShopNow.com",
         "productBrand": "Aasgaard"
     },
     {

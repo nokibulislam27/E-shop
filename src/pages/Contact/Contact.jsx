@@ -71,7 +71,7 @@ const Contact = () => {
                                 <div className="text-blue-500">
                                     <i className="fas fa-map-marker-alt text-2xl"></i>
                                 </div>
-                                <p>LitLounge, 456 Book Avenue, Reading City, CA 90001</p>
+                                <p>ShopNow, 456 Book Avenue, Reading City, CA 90001</p>
                             </div>
                             <div className="flex items-center gap-4 mb-4">
                                 <div className="text-blue-500">
@@ -83,13 +83,13 @@ const Contact = () => {
                                 <div className="text-blue-500">
                                     <i className="fas fa-envelope text-2xl"></i>
                                 </div>
-                                <p>support@litlounge.com</p>
+                                <p>support@ShopNow.com</p>
                             </div>
                             <div className="flex items-center gap-4">
                                 <div className="text-blue-500">
                                     <i className="fas fa-globe text-2xl"></i>
                                 </div>
-                                <p>www.litlounge.com</p>
+                                <p>www.ShopNow.com</p>
                             </div>
                         </div>
                     </div>

@@ -6,9 +6,9 @@ const Footer = () => {
             <div className="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-4 gap-8">
                 {/* About Us Section */}
                 <div>
-                    <h3 className="text-xl font-bold mb-4">About LitLounge</h3>
+                    <h3 className="text-xl font-bold mb-4">About ShopNow</h3>
                     <p className="text-sm leading-relaxed">
-                        LitLounge is your go-to online bookstore, offering a wide variety of books from different genres. Whether you're a fan of fiction, self-help, or academic books, we have something for everyone. Enjoy easy browsing and secure shopping from the comfort of your home.
+                        ShopNow is your go-to online bookstore, offering a wide variety of books from different genres. Whether you're a fan of fiction, self-help, or academic books, we have something for everyone. Enjoy easy browsing and secure shopping from the comfort of your home.
                     </p>
                 </div>
 
@@ -97,7 +97,7 @@ const Footer = () => {
 
             {/* Footer Bottom */}
             <div className="text-center text-sm mt-8 ">
-                <p>&copy; {new Date().getFullYear()} LitLounge. All rights reserved.</p>
+                <p>&copy; {new Date().getFullYear()} ShopNow. All rights reserved.</p>
             </div>
         </footer>
     );

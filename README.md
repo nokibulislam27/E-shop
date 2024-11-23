@@ -1,8 +1,8 @@
 # ShopNow - E-commerce Store
 
-**Live Link:** [LitLounge](https://lit-lounge-store.vercel.app)    
+**Live Link:** [ShopNow](https://lit-lounge-store.vercel.app)    
 
-LitLounge is an online product-selling platform developed using the MERN stack. It includes features like user authentication, role-based dashboards, product management, and a fully responsive design.
+ShopNow is an online product-selling platform developed using the MERN stack. It includes features like user authentication, role-based dashboards, product management, and a fully responsive design.
 
 ---
 
